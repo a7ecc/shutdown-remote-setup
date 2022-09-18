@@ -1,0 +1,1 @@
+shutdown /s /m \\ip-or-computer-name /f
